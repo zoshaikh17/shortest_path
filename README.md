@@ -27,3 +27,9 @@ If dist[v] > dist[u] + weight of edge uv, then “Graph contains negative weight
 4. Step 2 guarantees the shortest distances if the graph doesn’t contain a negative weight cycle. If we iterate
 through all edges one more time and get a shorter path for any vertex, then there is a negative weight
 cycle.
+
+## Result
+![Dijkstra](https://user-images.githubusercontent.com/55362861/107860008-c2ac6500-6e02-11eb-8225-4a08709cc2c1.PNG)
+![Bellman](https://user-images.githubusercontent.com/55362861/107860007-c213ce80-6e02-11eb-8e8c-885aa63842a9.PNG)
+
+
